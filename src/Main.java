@@ -1,7 +1,6 @@
 import javax.swing.JOptionPane;
 
 public class Main {
-
     public static void main(String[] args) {
         int opcion = 0, elemento = 0;
         Pilas pila = new Pilas();
